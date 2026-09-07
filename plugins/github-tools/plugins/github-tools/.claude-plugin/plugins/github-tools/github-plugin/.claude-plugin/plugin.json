@@ -1,8 +1,0 @@
-{
-  "name": "github-plugin",
-  "version": "1.0.0",
-  "description": "Exposes GitHub functions (repo info, issues, commits, PRs) as an agent skill",
-  "author": {
-    "name": "Pujitha"
-  }
-}
