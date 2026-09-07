@@ -1,0 +1,13 @@
+{
+  "name": "github-tools",
+  "owner": {
+    "name": "Pujitha"
+  },
+  "plugins": [
+    {
+      "name": "github-plugin",
+      "source": "./github-plugin",
+      "description": "GitHub tools: repo info, issues, commits, and pull requests"
+    }
+  ]
+}
